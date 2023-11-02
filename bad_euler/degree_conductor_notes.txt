@@ -41,9 +41,9 @@ def your_formula_for_degree(k):
     return  offsets[k % 12] + (k % 2 == 0) * (k // 12) * 2
 ```
 
-
 # 24.a1 (2^3 * 3)
 # 40.a1 (2^3 * 5)
+# 72.a1 (2^3 * 3^2)
 
 ```sage
 p = 2
@@ -55,5 +55,18 @@ def your_formula_for_conductor_exponent(k):
 def your_formula_for_degree(k):
     offsets = [1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]
     return offsets[k % 12] + (k % 2 == 0) * (k // 12)
+```
+
+# 72.a1 (2^3 * 3^2)
+```
+p = 3
+
+def your_formula_for_conductor_exponent(k):
+    offsets = [0, 1]
+    return k + offsets[k % 2]
+
+def your_formula_for_degree(k):
+    offsets = [1, 0]
+    return offsets[k % 2]
 ```
 
