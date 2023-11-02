@@ -1,4 +1,46 @@
 
+# 32.a1 (2^5)
+
+```sage
+p = 2
+
+def your_formula_for_conductor_exponent(k):
+    offsets = [0, 4, 4, 7, 2, 10, 6, 13, 4, 16, 8, 19]
+    return k + offsets[k % 12] + (((k % 2 == 0) * -12) + 18) * (k // 12)
+
+def your_formula_for_degree(k):
+    offsets = [1, 0, 0, 0, 2, 0, 1, 0, 3, 0, 2, 0]
+    return offsets[k % 12] + (k % 2 == 0) * (k // 12) * 3
+```
+
+# 64.a1 (2^6)
+
+```sage
+p = 2
+
+def your_formula_for_conductor_exponent(k):
+    offsets = [0, 5, 4, 9, 2, 13, 6, 17, 4, 21, 8, 25]
+    return k + offsets[k % 12] + (((k % 2 == 0) * -18) + 24) * (k // 12)
+
+def your_formula_for_degree(k):
+    offsets = [1, 0, 0, 0, 2, 0, 1, 0, 3, 0, 2, 0]
+    return offsets[k % 12] + (k % 2 == 0) * (k // 12) * 3
+```
+
+# 128.a1 (2^7)
+
+```sage
+p = 2
+
+def your_formula_for_conductor_exponent(k):
+    offsets = [0, 6, 6, 11, 6, 16, 10, 21, 10, 26, 16, 31]
+    return k + offsets[k % 12] + (((k % 2 == 0) * -16) + 30) * (k // 12)
+
+def your_formula_for_degree(k):
+    offsets = [1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]
+    return offsets[k % 12] + (k % 2 == 0) * (k // 12)
+```
+
 # 20.a1 (2^2 * 5)
 # 36.a1 (2^2 * 3^2)
 
