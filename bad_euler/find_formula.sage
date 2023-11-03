@@ -31,8 +31,8 @@ def deduce_sequence_parameters(seq: list[int]):
 def find_curve_formula(curve_num: int, p: Prime):
   curve_data = get_curve_data(curve_num, p)
   return {
-    conductor: deduce_sequence_parameters(curve_data['shifted_conductor']),
-    degree: deduce_sequence_parameters(curve_data['degree'])
+    'conductor': deduce_sequence_parameters(curve_data['shifted_conductor']),
+    'degree': deduce_sequence_parameters(curve_data['degree'])
   }
 
 def find_curve_formulas(curve_num: int):
