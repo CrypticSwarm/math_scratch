@@ -70,12 +70,14 @@ def your_formula_for_degree(k):
 p = 2
 
 def your_formula_for_conductor_exponent(k):
-    offsets = [0, 1, 0]
-    return k + offsets[k % 3] - (k // 3)
+    offsets = [0, 1, 0, -1, 0, -1, -2, -1, -2, -3, -2, -3]
+    mod2_offset = [-4, -4]
+    return k + offsets[k % 12] + mod2_offset[k % 2] * (k // 12)
 
 def your_formula_for_degree(k):
-    offsets = [1, 0, 1]
-    return offsets[k % 3] + (k // 3)
+    offsets = [1, 0, 1, 2, 1, 2, 3, 2, 3, 4, 3, 4]
+    mod2_offset = [4, 4]
+    return offsets[k % 12] + mod2_offset[k % 2] * (k // 12)
 ```
 
 # 36.a1 (2^2 * 3^2)
@@ -83,14 +85,14 @@ def your_formula_for_degree(k):
 p = 3
 
 def your_formula_for_conductor_exponent(k):
-    offsets = [0, 1, 0, 1]
-    mod2_offset = [-2, 0]
-    return k + offsets[k % 4] + mod2_offset[k % 2] * (k // 4)
+    offsets = [0, 1, 0, 1, -2, 1, -2, 1, -4, 1, -4, 1]
+    mod2_offset = [-6, 0]
+    return k + offsets[k % 12] + mod2_offset[k % 2] * (k // 12)
 
 def your_formula_for_degree(k):
-    offsets = [1, 0, 1, 0]
-    mod2_offset = [2, 0]
-    return offsets[k % 4] + mod2_offset[k % 2] * (k // 4)
+    offsets = [1, 0, 1, 0, 3, 0, 3, 0, 5, 0, 5, 0]
+    mod2_offset = [6, 0]
+    return offsets[k % 12] + mod2_offset[k % 2] * (k // 12)
 ```
 
 # 27.a1 (3^3)
@@ -132,11 +134,13 @@ def your_formula_for_degree(k):
 p = 3
 
 def your_formula_for_conductor_exponent(k):
-    offsets = [0, 1]
-    return k + offsets[k % 2]
+    offsets = [0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
+    mod2_offset = [0, 0]
+    return k + offsets[k % 12] + mod2_offset[k % 2] * (k // 12)
 
 def your_formula_for_degree(k):
-    offsets = [1, 0]
-    return offsets[k % 2]
+    offsets = [1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0]
+    mod2_offset = [0, 0]
+    return offsets[k % 12] + mod2_offset[k % 2] * (k // 12)
 ```
 
