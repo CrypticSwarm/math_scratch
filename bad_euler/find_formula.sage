@@ -1,18 +1,42 @@
 Prime = int
 
-function find_conductor(curve_num: int, p: Prime):
-  pass
+P.<x> = ZZ[x]
 
-function find_degree(curve_num: int, p: Prime):
-  pass
+def get_curve_data(curve_num: int, p: Prime, num_entries: int = 48):
+  E = gp(EllipticCurve(f"{curve_num}.a1"))
+  conductor = [0]
+  shifted_conductor = [0]
+  degree = [1]
+  for k in range(1, num_entries + 1):
+      L = gp.lfunsympow(E, k)
+      local_factor = P(gp.get(1 / gp.lfuneuler(L, p)))
+      N = gp.lfunparams(L)[1].sage()
+      val = valuation(N, p)
+      degree.append(local_factor.degree())
+      conductor.append(val)
+      shifted_conductor.append(val - k)
+
+  return {
+    'degree': degree,
+    'conductor': conductor,
+    'shifted_conductor': shifted_conductor
+  }
+
+def deduce_sequence_parameters(seq: list[int]):
+  return {
+    'base_offsets': seq[0:12],
+    'mod2_offsets': [seq[12] - seq[0], seq[13] - seq[1]]
+  }
+
+def find_curve_formula(curve_num: int, p: Prime):
+  curve_data = get_curve_data(curve_num, p)
+  return {
+    conductor: deduce_sequence_parameters(curve_data['shifted_conductor']),
+    degree: deduce_sequence_parameters(curve_data['degree'])
+  }
 
 def find_curve_formulas(curve_num: int):
-  return {
-    p: {
-      conductor: find_conductor(curve_num, p),
-      degree: find_degree(curve_num, p)
-    } for p, pow in factor(curve_num)
-  }
+  return { p: find_curve_formula(curve_num, p) for p, pow in factor(curve_num) }
 
 def generate_degree(base_offsets: list[int], mod2_offsets: list[int]):
     size = len(base_offsets)
