@@ -2,8 +2,8 @@ Prime = int
 
 P.<x> = ZZ[x]
 
-def get_curve_data(curve_num: int, p: Prime, num_entries: int = 48):
-  E = gp(EllipticCurve(f"{curve_num}.a1"))
+def get_curve_data(curve: EllipticCurve, p: Prime, num_entries: int = 48):
+  E = gp(curve)
   conductor = [0]
   shifted_conductor = [0]
   degree = [1]
@@ -28,15 +28,15 @@ def deduce_sequence_parameters(seq: list[int]):
     'mod2_offsets': [seq[12] - seq[0], seq[13] - seq[1]]
   }
 
-def find_curve_formula(curve_num: int, p: Prime):
-  curve_data = get_curve_data(curve_num, p)
+def find_curve_formula(curve: EllipticCurve, p: Prime):
+  curve_data = get_curve_data(curve, p)
   return {
     'conductor': deduce_sequence_parameters(curve_data['shifted_conductor']),
     'degree': deduce_sequence_parameters(curve_data['degree'])
   }
 
-def find_curve_formulas(curve_num: int):
-  return { p: find_curve_formula(curve_num, p) for p, pow in factor(curve_num) }
+def find_curve_formulas(curve: EllipticCurve):
+  return { p: find_curve_formula(curve, p) for p, pow in factor(curve.conductor()) }
 
 def generate_degree(base_offsets: list[int], mod2_offsets: list[int]):
     size = len(base_offsets)
