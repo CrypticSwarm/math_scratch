@@ -1,0 +1,420 @@
+11a2 Elliptic Curve defined by y^2 + y = x^3 - x^2 - 7820*x - 263580 over Rational Field
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+14a5 Elliptic Curve defined by y^2 + x*y + y = x^3 - 2731*x - 55146 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+15a5 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - 2160*x - 39540 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+17a3 Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 - 91*x - 310 over Rational Field
+   17^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+19a2 Elliptic Curve defined by y^2 + y = x^3 + x^2 - 769*x - 8470 over Rational Field
+   19^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+20a4 Elliptic Curve defined by y^2 = x^3 + x^2 - 41*x - 116 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+21a5 Elliptic Curve defined by y^2 + x*y = x^3 - 784*x - 8515 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+24a5 Elliptic Curve defined by y^2 = x^3 - x^2 - 384*x - 2772 over Rational Field
+   2^3 {'base_offsets': [1, 2, 2, 3, 2, 4, 3, 5, 3, 6, 4, 7], 'mod2_offsets': [3, 6]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+26a2 Elliptic Curve defined by y^2 + x*y + y = x^3 - 460*x - 3830 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   13^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+26b2 Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 - 213*x - 1257 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   13^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+27a2 Elliptic Curve defined by y^2 + y = x^3 - 270*x - 1708 over Rational Field
+   3^3 {'base_offsets': [1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5], 'mod2_offsets': [4, 4]}
+30a7 Elliptic Curve defined by y^2 + x*y + y = x^3 - 5334*x - 150368 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+32a3 Elliptic Curve defined by y^2 = x^3 - 11*x - 14 over Rational Field
+   2^5 {'base_offsets': [1, 4, 4, 7, 4, 10, 7, 13, 7, 16, 10, 19], 'mod2_offsets': [9, 18]}
+33a3 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 - 146*x + 621 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+34a4 Elliptic Curve defined by y^2 + x*y = x^3 - 113*x - 329 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   17^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+35a2 Elliptic Curve defined by y^2 + y = x^3 + x^2 - 131*x - 650 over Rational Field
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+36a4 Elliptic Curve defined by y^2 = x^3 - 135*x - 594 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+37a1 Elliptic Curve defined by y^2 + y = x^3 - x over Rational Field
+   37^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+37b2 Elliptic Curve defined by y^2 + y = x^3 + x^2 - 1873*x - 31833 over Rational Field
+   37^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+38a2 Elliptic Curve defined by y^2 + x*y + y = x^3 - 86*x - 2456 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   19^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+38b2 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - 70*x - 279 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   19^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+39a2 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 - 69*x - 252 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   13^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+40a2 Elliptic Curve defined by y^2 = x^3 - 107*x - 426 over Rational Field
+   2^3 {'base_offsets': [1, 2, 2, 3, 2, 4, 3, 5, 3, 6, 4, 7], 'mod2_offsets': [3, 6]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+42a4 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - 1344*x + 18405 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+43a1 Elliptic Curve defined by y^2 + y = x^3 + x^2 over Rational Field
+   43^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+44a2 Elliptic Curve defined by y^2 = x^3 + x^2 - 77*x - 289 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+45a7 Elliptic Curve defined by y^2 + x*y = x^3 - x^2 - 19440*x + 1048135 over Rational Field
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+46a2 Elliptic Curve defined by y^2 + x*y = x^3 - x^2 - 170*x - 812 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   23^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+48a5 Elliptic Curve defined by y^2 = x^3 + x^2 - 384*x + 2772 over Rational Field
+   2^4 {'base_offsets': [1, 3, 2, 5, 2, 7, 3, 9, 3, 11, 4, 13], 'mod2_offsets': [3, 12]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+49a4 Elliptic Curve defined by y^2 + x*y = x^3 - x^2 - 1822*x + 30393 over Rational Field
+   7^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+50a2 Elliptic Curve defined by y^2 + x*y + y = x^3 - 126*x - 552 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+50b4 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - 3138*x - 68969 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+51a2 Elliptic Curve defined by y^2 + y = x^3 + x^2 - 59*x - 196 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   17^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+52a2 Elliptic Curve defined by y^2 = x^3 - 4*x - 3 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   13^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+53a1 Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 over Rational Field
+   53^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+54a2 Elliptic Curve defined by y^2 + x*y = x^3 - x^2 - 123*x - 667 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^3 {'base_offsets': [1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5], 'mod2_offsets': [4, 4]}
+54b2 Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 - 29*x - 53 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^3 {'base_offsets': [1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5], 'mod2_offsets': [4, 4]}
+55a3 Elliptic Curve defined by y^2 + x*y = x^3 - x^2 - 59*x + 190 over Rational Field
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+56a4 Elliptic Curve defined by y^2 = x^3 - 299*x + 1990 over Rational Field
+   2^3 {'base_offsets': [1, 2, 2, 3, 2, 4, 3, 5, 3, 6, 4, 7], 'mod2_offsets': [3, 6]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+56b2 Elliptic Curve defined by y^2 = x^3 - x^2 - 40*x - 84 over Rational Field
+   2^3 {'base_offsets': [1, 2, 2, 3, 2, 4, 3, 5, 3, 6, 4, 7], 'mod2_offsets': [3, 6]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+57a1 Elliptic Curve defined by y^2 + y = x^3 - x^2 - 2*x + 2 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   19^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+57c2 Elliptic Curve defined by y^2 + y = x^3 + x^2 - 4390*x - 113432 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   19^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+57b3 Elliptic Curve defined by y^2 + x*y + y = x^3 - 102*x + 385 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   19^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+58a1 Elliptic Curve defined by y^2 + x*y = x^3 - x^2 - x + 1 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   29^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+58b2 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - 455*x - 3951 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   29^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+61a1 Elliptic Curve defined by y^2 + x*y = x^3 - 2*x + 1 over Rational Field
+   61^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+62a4 Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 - 331*x + 2397 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   31^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+63a5 Elliptic Curve defined by y^2 + x*y = x^3 - x^2 - 7056*x + 229905 over Rational Field
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+64a2 Elliptic Curve defined by y^2 = x^3 - 44*x - 112 over Rational Field
+   2^6 {'base_offsets': [1, 5, 4, 9, 4, 13, 7, 17, 7, 21, 10, 25], 'mod2_offsets': [9, 24]}
+65a1 Elliptic Curve defined by y^2 + x*y = x^3 - x over Rational Field
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   13^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+66a3 Elliptic Curve defined by y^2 + x*y + y = x^3 - 81*x - 284 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+66b3 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - 352*x - 2689 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+66c3 Elliptic Curve defined by y^2 + x*y = x^3 - 10065*x - 389499 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+67a1 Elliptic Curve defined by y^2 + y = x^3 + x^2 - 12*x - 21 over Rational Field
+   67^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+69a2 Elliptic Curve defined by y^2 + x*y + y = x^3 - 16*x - 25 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   23^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+70a3 Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 - 268*x - 1619 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+72a5 Elliptic Curve defined by y^2 = x^3 - 3459*x + 78302 over Rational Field
+   2^3 {'base_offsets': [1, 2, 2, 3, 2, 4, 3, 5, 3, 6, 4, 7], 'mod2_offsets': [3, 6]}
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+73a2 Elliptic Curve defined by y^2 + x*y = x^3 - x^2 - x over Rational Field
+   73^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+75c2 Elliptic Curve defined by y^2 + y = x^3 + x^2 - 208*x - 1256 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+75b7 Elliptic Curve defined by y^2 + x*y + y = x^3 - 54001*x - 4834477 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+75a1 Elliptic Curve defined by y^2 + y = x^3 - x^2 - 8*x - 7 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+76a1 Elliptic Curve defined by y^2 = x^3 - x^2 - 21*x - 31 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   19^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+77a1 Elliptic Curve defined by y^2 + y = x^3 + 2*x over Rational Field
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+77b3 Elliptic Curve defined by y^2 + y = x^3 + x^2 - 89*x + 295 over Rational Field
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+77c2 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 - 51*x + 110 over Rational Field
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+78a4 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 - 20739*x + 1140957 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   13^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+79a1 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - 2*x over Rational Field
+   79^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+80a3 Elliptic Curve defined by y^2 = x^3 - 107*x + 426 over Rational Field
+   2^4 {'base_offsets': [1, 3, 2, 5, 2, 7, 3, 9, 3, 11, 4, 13], 'mod2_offsets': [3, 12]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+80b4 Elliptic Curve defined by y^2 = x^3 - x^2 - 41*x + 116 over Rational Field
+   2^4 {'base_offsets': [1, 3, 1, 5, 1, 7, 1, 9, 1, 11, 1, 13], 'mod2_offsets': [0, 12]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+82a2 Elliptic Curve defined by y^2 + x*y + y = x^3 - 12*x - 16 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   41^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+83a1 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 + x over Rational Field
+   83^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+84b2 Elliptic Curve defined by y^2 = x^3 - x^2 - 36*x - 72 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+84a4 Elliptic Curve defined by y^2 = x^3 + x^2 - 1828*x - 30700 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+85a1 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 - 8*x - 13 over Rational Field
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   17^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+88a1 Elliptic Curve defined by y^2 = x^3 - 4*x + 4 over Rational Field
+   2^3 {'base_offsets': [1, 2, 2, 3, 2, 4, 3, 5, 3, 6, 4, 7], 'mod2_offsets': [3, 6]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+89a1 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - x over Rational Field
+   89^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+89b2 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 - x over Rational Field
+   89^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+90a4 Elliptic Curve defined by y^2 + x*y = x^3 - x^2 - 1149*x - 14707 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+90b4 Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 - 218*x - 269 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+90c8 Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 - 48002*x + 4059929 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+91a1 Elliptic Curve defined by y^2 + y = x^3 + x over Rational Field
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   13^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+91b3 Elliptic Curve defined by y^2 + y = x^3 + x^2 - 117*x - 1245 over Rational Field
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   13^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+92b1 Elliptic Curve defined by y^2 = x^3 - x + 1 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   23^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+92a2 Elliptic Curve defined by y^2 = x^3 + x^2 - 18*x - 43 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   23^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+94a2 Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 - 10*x - 9 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   47^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+96b2 Elliptic Curve defined by y^2 = x^3 - x^2 - 32*x - 60 over Rational Field
+   2^5 {'base_offsets': [1, 4, 4, 7, 4, 10, 7, 13, 7, 16, 10, 19], 'mod2_offsets': [9, 18]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+96a3 Elliptic Curve defined by y^2 = x^3 + x^2 - 32*x + 60 over Rational Field
+   2^5 {'base_offsets': [1, 4, 4, 7, 4, 10, 7, 13, 7, 16, 10, 19], 'mod2_offsets': [9, 18]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+98a6 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 - 133795*x + 18781197 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   7^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+99a2 Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 - 17*x + 30 over Rational Field
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+99b3 Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 - 1319*x - 18084 over Rational Field
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+99c2 Elliptic Curve defined by y^2 + x*y = x^3 - x^2 - 150*x - 667 over Rational Field
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+99d3 Elliptic Curve defined by y^2 + y = x^3 - 70383*x + 7187035 over Rational Field
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+100a3 Elliptic Curve defined by y^2 = x^3 - x^2 - 1033*x - 12438 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+101a1 Elliptic Curve defined by y^2 + y = x^3 + x^2 - x - 1 over Rational Field
+   101^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+102a1 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 - 2*x over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   17^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+102c3 Elliptic Curve defined by y^2 + x*y + y = x^3 - 751*x - 6046 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   17^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+102b5 Elliptic Curve defined by y^2 + x*y = x^3 - 27744*x - 1781010 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   17^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+104a1 Elliptic Curve defined by y^2 = x^3 + x^2 - 16*x - 32 over Rational Field
+   2^3 {'base_offsets': [1, 2, 2, 3, 2, 4, 3, 5, 3, 6, 4, 7], 'mod2_offsets': [3, 6]}
+   13^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+105a3 Elliptic Curve defined by y^2 + x*y + y = x^3 - 113*x - 469 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+106b1 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 - 7*x + 5 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   53^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+106d1 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 - 27*x - 67 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   53^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+106a2 Elliptic Curve defined by y^2 + x*y = x^3 - 9*x - 29 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   53^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+106c2 Elliptic Curve defined by y^2 + x*y = x^3 - 24603*x - 1487407 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   53^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+108a2 Elliptic Curve defined by y^2 = x^3 - 108 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^3 {'base_offsets': [1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5], 'mod2_offsets': [4, 4]}
+109a1 Elliptic Curve defined by y^2 + x*y = x^3 - x^2 - 8*x - 7 over Rational Field
+   109^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+110c1 Elliptic Curve defined by y^2 + x*y + y = x^3 - 89*x + 316 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+110a2 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - 5940*x - 178685 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+110b1 Elliptic Curve defined by y^2 + x*y = x^3 - x + 1 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   11^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+112a2 Elliptic Curve defined by y^2 = x^3 + x^2 - 40*x + 84 over Rational Field
+   2^4 {'base_offsets': [1, 3, 2, 5, 2, 7, 3, 9, 3, 11, 4, 13], 'mod2_offsets': [3, 12]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+112b3 Elliptic Curve defined by y^2 = x^3 - 299*x - 1990 over Rational Field
+   2^4 {'base_offsets': [1, 3, 2, 5, 2, 7, 3, 9, 3, 11, 4, 13], 'mod2_offsets': [3, 12]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+112c6 Elliptic Curve defined by y^2 = x^3 - x^2 - 43688*x + 3529328 over Rational Field
+   2^4 {'base_offsets': [1, 3, 1, 5, 1, 7, 1, 9, 1, 11, 1, 13], 'mod2_offsets': [0, 12]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+113a2 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - 2*x - 2 over Rational Field
+   113^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+114b1 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 - 95*x - 399 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   19^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+114c3 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - 87552*x - 10007679 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   19^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+114a3 Elliptic Curve defined by y^2 + x*y = x^3 - 428*x - 3444 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   19^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+115a1 Elliptic Curve defined by y^2 + y = x^3 + 7*x - 11 over Rational Field
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   23^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+116a1 Elliptic Curve defined by y^2 = x^3 - 4831*x - 129242 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   29^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+116b1 Elliptic Curve defined by y^2 = x^3 + x^2 - 4*x + 4 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   29^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+116c2 Elliptic Curve defined by y^2 = x^3 - x^2 - 9*x + 14 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   29^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+117a4 Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 - 626*x + 6180 over Rational Field
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   13^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+118a1 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 + x + 1 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   59^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+118d1 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 + 56*x - 192 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   59^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+118b1 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - 25*x + 39 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   59^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+118c1 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - 4*x - 5 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   59^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+120b3 Elliptic Curve defined by y^2 = x^3 + x^2 - 216*x - 1296 over Rational Field
+   2^3 {'base_offsets': [1, 2, 2, 3, 2, 4, 3, 5, 3, 6, 4, 7], 'mod2_offsets': [3, 6]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+120a5 Elliptic Curve defined by y^2 = x^3 + x^2 - 3200*x - 70752 over Rational Field
+   2^3 {'base_offsets': [1, 2, 2, 3, 2, 4, 3, 5, 3, 6, 4, 7], 'mod2_offsets': [3, 6]}
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   5^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+121a2 Elliptic Curve defined by y^2 + x*y + y = x^3 + x^2 - 305*x + 7888 over Rational Field
+   11^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+121b2 Elliptic Curve defined by y^2 + y = x^3 - x^2 - 887*x - 10143 over Rational Field
+   11^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+121c2 Elliptic Curve defined by y^2 + x*y = x^3 + x^2 - 3632*x + 82757 over Rational Field
+   11^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+121d3 Elliptic Curve defined by y^2 + y = x^3 - x^2 - 946260*x + 354609639 over Rational Field
+   11^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+122a1 Elliptic Curve defined by y^2 + x*y + y = x^3 + 2*x over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   61^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+123a1 Elliptic Curve defined by y^2 + y = x^3 + x^2 - 10*x + 10 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   41^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+123b1 Elliptic Curve defined by y^2 + y = x^3 - x^2 + x - 1 over Rational Field
+   3^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   41^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+124a1 Elliptic Curve defined by y^2 = x^3 + x^2 - 2*x + 1 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   31^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+124b1 Elliptic Curve defined by y^2 = x^3 - 17*x - 27 over Rational Field
+   2^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   31^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+126b3 Elliptic Curve defined by y^2 + x*y = x^3 - x^2 - 12096*x - 509036 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+126a6 Elliptic Curve defined by y^2 + x*y + y = x^3 - x^2 - 24575*x + 1488935 over Rational Field
+   2^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   3^2 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+   7^1 {'base_offsets': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'mod2_offsets': [0, 0]}
+128a2 Elliptic Curve defined by y^2 = x^3 + x^2 - 9*x + 7 over Rational Field
+   2^7 {'base_offsets': [1, 6, 6, 11, 6, 16, 11, 21, 11, 26, 16, 31], 'mod2_offsets': [15, 30]}
+128b2 Elliptic Curve defined by y^2 = x^3 + x^2 - 2*x - 2 over Rational Field
+   2^7 {'base_offsets': [1, 6, 6, 11, 6, 16, 11, 21, 11, 26, 16, 31], 'mod2_offsets': [15, 30]}
+128c2 Elliptic Curve defined by y^2 = x^3 - x^2 - 9*x - 7 over Rational Field
+   2^7 {'base_offsets': [1, 6, 6, 11, 6, 16, 11, 21, 11, 26, 16, 31], 'mod2_offsets': [15, 30]}
+128d2 Elliptic Curve defined by y^2 = x^3 - x^2 - 2*x + 2 over Rational Field
+   2^7 {'base_offsets': [1, 6, 6, 11, 6, 16, 11, 21, 11, 26, 16, 31], 'mod2_offsets': [15, 30]}
