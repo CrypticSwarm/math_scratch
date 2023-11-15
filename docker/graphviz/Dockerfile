@@ -1,10 +1,10 @@
 FROM alpine:latest
 
 RUN apk add --no-cache graphviz ttf-freefont font-noto \
-    && addgroup -S graphvizgroup \
-    && adduser -S graphvizuser -G graphvizgroup
+    && addgroup -S workgroup \
+    && adduser -S worker -G workgroup
 
 WORKDIR /workspace
-USER graphvizuser
+USER worker
 
 ENTRYPOINT ["dot"]
