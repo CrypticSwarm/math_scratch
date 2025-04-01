@@ -29,7 +29,7 @@ def deduce_sequence_parameters(seq: list[int]):
   }
 
 def find_curve_formula(curve: EllipticCurve, p: Prime):
-  curve_data = get_curve_data(curve, p)
+  curve_data = get_curve_data(curve, p, 14)
   return {
     'conductor': deduce_sequence_parameters(curve_data['shifted_conductor']),
     'degree': deduce_sequence_parameters(curve_data['degree'])
