@@ -1,3 +1,4 @@
+import random
 from dataclasses import dataclass
 
 Prime = int
@@ -52,3 +53,28 @@ def generate_conductor(offsets: DeducedSymPowLStructure):
     degree = generate_degree(offsets)
     return lambda k: k + degree(k)
 
+def check_degree_conductor_deduction(curve: EllipticCurve, p: Prime, num_entries: int):
+    """
+    Check deduced L function symmetric power deduction matches actual for the
+    first num_entries values for both the conductor and degree of the euler
+    factors.
+    """
+    curve_params = find_curve_formula(curve, p)
+    conductor_fn = generate_conductor(curve_params['conductor'])
+    degree_fn = generate_degree(curve_params['degree'])
+    actual_curve_data = get_curve_data(curve, p, num_entries)
+    for k in range(num_entries):
+        assert conductor_fn(k) == actual_curve_data.conductor[k]
+        assert degree_fn(k) == actual_curve_data.degree[k]
+
+def fuzz_random_elliptic_curve_bad_primes(n: int):
+    """Fuzz test random elliptic curve and check the first 100 entries."""
+    for i in range(n):
+        rand_curve = EllipticCurve([random.randint(-1000, 1000), random.randint(-1000, 1000)])
+        print('Checking: ', rand_curve)
+        for p, pow in factor(rand_curve.conductor()):
+            print(f'  Checking prime: {p}^{pow}')
+            check_degree_conductor_deduction(rand_curve, p, 100)
+        print('No issues: ', rand_curve)
+
+fuzz_random_elliptic_curve_bad_primes(10)
