@@ -14,6 +14,9 @@ class SymPowLCurveData:
 class DeducedSymPowLStructure:
     base_offsets: list[int]
     mod2_offsets: list[int]
+
+    def __call__(self, k):
+        return self.base_offsets[k % 12] + self.mod2_offsets[k % 2] * (k // 12)
         
 def get_curve_data(curve: EllipticCurve, p: Prime, num_entries: int = 48) -> SymPowLCurveData:
   E = gp(curve)
@@ -42,13 +45,6 @@ def find_curve_formula(curve: EllipticCurve, p: Prime):
 def find_curve_formulas(curve: EllipticCurve):
   return { p: find_curve_formula(curve, p) for p, pow in factor(curve.conductor()) }
 
-def generate_degree(offsets: DeducedSymPowLStructure):
-    return lambda k: offsets.base_offsets[k % 12] + offsets.mod2_offsets[k % 2] * (k // 12)
-
-def generate_conductor(offsets: DeducedSymPowLStructure):
-    degree = generate_degree(offsets)
-    return lambda k: degree(k)
-
 def check_degree_conductor_deduction(curve: EllipticCurve, p: Prime, num_entries: int):
     """
     Check deduced L function symmetric power deduction matches actual for the
@@ -56,8 +52,8 @@ def check_degree_conductor_deduction(curve: EllipticCurve, p: Prime, num_entries
     factors.
     """
     curve_params = find_curve_formula(curve, p)
-    conductor_fn = generate_conductor(curve_params['conductor'])
-    degree_fn = generate_degree(curve_params['degree'])
+    conductor_fn = curve_params['conductor']
+    degree_fn = curve_params['degree']
     actual_curve_data = get_curve_data(curve, p, num_entries)
     for k in range(num_entries):
         assert conductor_fn(k) == actual_curve_data.conductor[k]
