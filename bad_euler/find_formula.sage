@@ -42,9 +42,6 @@ def find_curve_formula(curve: EllipticCurve, p: Prime):
     'degree': deduce_sequence_parameters(curve_data.degree)
   }
 
-def find_curve_formulas(curve: EllipticCurve):
-  return { p: find_curve_formula(curve, p) for p, pow in factor(curve.conductor()) }
-
 def check_degree_conductor_deduction(curve: EllipticCurve, p: Prime, num_entries: int):
     """
     Check deduced L function symmetric power deduction matches actual for the

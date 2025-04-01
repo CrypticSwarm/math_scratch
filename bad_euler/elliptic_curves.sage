@@ -11,12 +11,15 @@ def elliptic_curves_from_conductors(conductors: Iterable[int]) -> EllipticCurve:
 def sum_array(arr1: Iterable[float], arr2: Iterable[float]) -> list[float]:
   return [a + b for a, b in zip(arr1, arr2)]
 
-def combine_elliptic_curve_sequences(conductor: : Iterable[int], degree: Iterable[int]) -> dict:
+def combine_elliptic_curve_sequences(conductor: Iterable[int], degree: Iterable[int]) -> dict:
   """Combines the conductor and degree elliptic curve symmetric power sequences."""
   return {
     'base_offsets': sum_array(conductor['base_offsets'], degree['base_offsets']),
     'mod2_offsets': sum_array(conductor['mod2_offsets'], degree['mod2_offsets'])
   }
+
+def find_curve_formulas(curve: EllipticCurve):
+  return { p: find_curve_formula(curve, p) for p, pow in factor(curve.conductor()) }
 
 def scan_combined_data(conductors: Iterable[int]):
   """For each elliptic curve add conductor and degree symmetric power sequences."""
