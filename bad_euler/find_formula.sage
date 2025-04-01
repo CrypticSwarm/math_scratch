@@ -7,7 +7,7 @@ def get_curve_data(curve: EllipticCurve, p: Prime, num_entries: int = 48):
   conductor = [0]
   shifted_conductor = [0]
   degree = [1]
-  for k in range(1, num_entries + 1):
+  for k in range(1, num_entries):
       L = gp.lfunsympow(E, k)
       local_factor = P(gp.get(1 / gp.lfuneuler(L, p)))
       N = gp.lfunparams(L)[1].sage()
