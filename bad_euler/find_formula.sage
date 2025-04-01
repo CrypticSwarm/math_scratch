@@ -10,10 +10,6 @@ class SymPowLCurveData:
     degree: list[int]
     conductor: list[int]
 
-    @property
-    def shifted_conductor(self):
-        return [val - k for k, val in enumerate(self.conductor)]
-
 @dataclass
 class DeducedSymPowLStructure:
     base_offsets: list[int]
@@ -39,7 +35,7 @@ def deduce_sequence_parameters(seq: list[int]):
 def find_curve_formula(curve: EllipticCurve, p: Prime):
   curve_data = get_curve_data(curve, p, 14)
   return {
-    'conductor': deduce_sequence_parameters(curve_data.shifted_conductor),
+    'conductor': deduce_sequence_parameters(curve_data.conductor),
     'degree': deduce_sequence_parameters(curve_data.degree)
   }
 
@@ -51,7 +47,7 @@ def generate_degree(offsets: DeducedSymPowLStructure):
 
 def generate_conductor(offsets: DeducedSymPowLStructure):
     degree = generate_degree(offsets)
-    return lambda k: k + degree(k)
+    return lambda k: degree(k)
 
 def check_degree_conductor_deduction(curve: EllipticCurve, p: Prime, num_entries: int):
     """
